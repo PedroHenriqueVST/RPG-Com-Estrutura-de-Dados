@@ -1,9 +1,3 @@
-/*
-  Aluno: Pedro Henrique Vieira dos Santos
-  Matrícula: 202403047
-  Engenharia de computção
-*/
-
 
 #include <stdio.h>
 #include <stdlib.h>
